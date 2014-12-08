@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7edd5fe-370c-4087-93f5-6b018513ea9e" name="Default" comment="" />
+    <list id="41c961e9-cb3b-4665-8b4c-5cc570edc7c0" name="nocommit" comment="" />
+    <ignored path="coddee.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="coddee" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="blocks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/blocks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-72.57692" vertical-offset="68" max-vertical-offset="4879">
+              <caret line="115" column="100" selection-start-line="115" selection-start-column="100" selection-end-line="115" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="4539">
+              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="42" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/blockly/generators/javascript/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3043">
+              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/blockly/demos/blockfactory/blocks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3542" max-vertical-offset="11696">
+              <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="3215" max-vertical-offset="5559">
+              <caret line="201" column="31" selection-start-line="201" selection-start-column="31" selection-end-line="201" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logic.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/logic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3978" max-vertical-offset="6613">
+              <caret line="257" column="29" selection-start-line="257" selection-start-column="16" selection-end-line="257" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="13787">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map-generator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/map-generator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inventory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/inventory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7307692" vertical-offset="678" max-vertical-offset="1428">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/game.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/inc/Server.php" />
+        <option value="$PROJECT_DIR$/public/js/server.js" />
+        <option value="$PROJECT_DIR$/public/js/blockly/demos/blockfactory/blocks.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/js/blockly/core/workspace.js" />
+        <option value="$PROJECT_DIR$/public/js/inventory.js" />
+        <option value="$PROJECT_DIR$/public/js/game.js" />
+        <option value="$PROJECT_DIR$/public/js/blocks.js" />
+        <option value="$PROJECT_DIR$/public/js/bootstrap.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-2.1.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pubnub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Clients" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sounds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockly-custom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blockly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blocks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coddee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="/opt/local/bin" />
+    <property name="options.lastSelected" value="vcs.Mercurial" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/sounds" />
+      <recent name="$PROJECT_DIR$/public/img" />
+      <recent name="$PROJECT_DIR$/public/img/items" />
+      <recent name="$PROJECT_DIR$/public/js/interpreter" />
+      <recent name="$PROJECT_DIR$/public/js/blockly" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/css" />
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/css/main.css</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/css/main.css~</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/index.html</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/index.html~</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/js/inventory.js~</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/img/items/dirt.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/img/items/grass.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/img/items/stone.png</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/public/img/items/water.png</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="b5aabc76-e03a-4aa0-8bf3-1b5ae0de9286" server_name="coddee">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7edd5fe-370c-4087-93f5-6b018513ea9e" name="Default" comment="" />
+      <changelist id="41c961e9-cb3b-4665-8b4c-5cc570edc7c0" name="nocommit" comment="" />
+      <created>1417853940527</created>
+      <option name="number" value="Default" />
+      <updated>1417853940527</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1417853989822</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1417853989822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added jquery and createjs">
+      <created>1417854378496</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1417854378497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added dirt image">
+      <created>1417856762719</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1417856762719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added game.js">
+      <created>1417856788278</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1417856788278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added canvas">
+      <created>1417856829998</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1417856829998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="more tiles">
+      <created>1417858001027</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1417858001027</updated>
+    </task>
+    <task id="LOCAL-00007" summary="made vars local">
+      <created>1417858364643</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1417858364643</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added hero">
+      <created>1417859530249</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1417859530249</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added hero">
+      <created>1417859553974</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1417859553974</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hero move">
+      <created>1417860134993</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1417860134993</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hero move directions">
+      <created>1417860577430</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1417860577430</updated>
+    </task>
+    <task id="LOCAL-00012" summary="directory structure">
+      <created>1417861298301</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1417861298301</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added blockly">
+      <created>1417862961099</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1417862961099</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added block categories">
+      <created>1417864121827</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1417864121827</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added block move">
+      <created>1417864710545</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1417864710545</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added move func">
+      <created>1417865302716</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1417865302716</updated>
+    </task>
+    <task id="LOCAL-00017" summary="simple run through eval">
+      <created>1417865713119</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1417865713119</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added js interpreter">
+      <created>1417865915234</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1417865915234</updated>
+    </task>
+    <task id="LOCAL-00019" summary="run with interpreter">
+      <created>1417866454420</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1417866454420</updated>
+    </task>
+    <task id="LOCAL-00020" summary="run by steps with interpreter">
+      <created>1417867612597</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1417867612597</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added bushes; added block take">
+      <created>1417869523478</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1417869523478</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added paper">
+      <created>1417870465743</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1417870465743</updated>
+    </task>
+    <task id="LOCAL-00023" summary="handle motion over things">
+      <created>1417871801674</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1417871801674</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixed tree overlaps hero">
+      <created>1417874800846</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1417874800846</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added trash can">
+      <created>1417874977061</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1417874977061</updated>
+    </task>
+    <task id="LOCAL-00026" summary="infinite map with viewport">
+      <created>1417888656861</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1417888656861</updated>
+    </task>
+    <task id="LOCAL-00027" summary="hide objects when over them">
+      <created>1417890132663</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1417890132663</updated>
+    </task>
+    <task id="LOCAL-00028" summary="more blocks: take, detect trash, controls">
+      <created>1417894817440</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1417894817441</updated>
+    </task>
+    <task id="LOCAL-00029" summary="overlaps again">
+      <created>1417897469308</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1417897469309</updated>
+    </task>
+    <task id="LOCAL-00030" summary="take into inventory">
+      <created>1417897937605</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1417897937605</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fixed blinking">
+      <created>1417898568469</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1417898568469</updated>
+    </task>
+    <task id="LOCAL-00032" summary="run/stop code">
+      <created>1417899366693</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1417899366693</updated>
+    </task>
+    <task id="LOCAL-00033" summary="run/stop code">
+      <created>1417899881063</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1417899881063</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added bottle">
+      <created>1417900167829</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1417900167829</updated>
+    </task>
+    <task id="LOCAL-00035" summary="added plastic">
+      <created>1417900442660</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1417900442660</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added metal and paper">
+      <created>1417903219729</created>
+      <option name="number" value="00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1417903219729</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update tile">
+      <created>1417903258796</created>
+      <option name="number" value="00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1417903258796</updated>
+    </task>
+    <task id="LOCAL-00038" summary="chunk update">
+      <created>1417905001528</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1417905001528</updated>
+    </task>
+    <task id="LOCAL-00039" summary="updated images">
+      <created>1417936140911</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1417936140911</updated>
+    </task>
+    <task id="LOCAL-00040" summary="updated images">
+      <created>1417939008433</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1417939008433</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added block put">
+      <created>1417939862471</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1417939862471</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added put action">
+      <created>1417940152615</created>
+      <option name="number" value="00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1417940152615</updated>
+    </task>
+    <task id="LOCAL-00043" summary="swimming">
+      <created>1417943377004</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1417943377004</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fixed remove old thing on update">
+      <created>1417946200617</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1417946200617</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added players">
+      <created>1417950878594</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1417950878594</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixed player update">
+      <created>1417951203732</created>
+      <option name="number" value="00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1417951203732</updated>
+    </task>
+    <task id="LOCAL-00047" summary="road-&gt;stone">
+      <created>1417951414573</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1417951414573</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fixed player update">
+      <created>1417951551218</created>
+      <option name="number" value="00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1417951551218</updated>
+    </task>
+    <task id="LOCAL-00049" summary="map generator">
+      <created>1417952756469</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1417952756479</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fixed map generator">
+      <created>1417952842527</created>
+      <option name="number" value="00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1417952842527</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fixed player update">
+      <created>1417956000400</created>
+      <option name="number" value="00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1417956000400</updated>
+    </task>
+    <task id="LOCAL-00052" summary="init vieport on update hero">
+      <created>1417966286478</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1417966286478</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fixed hero update viewport">
+      <created>1417967207961</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1417967207961</updated>
+    </task>
+    <task id="LOCAL-00054" summary="hero update move">
+      <created>1417968087516</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1417968087516</updated>
+    </task>
+    <task id="LOCAL-00055" summary="hero update move">
+      <created>1417968788191</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1417968788191</updated>
+    </task>
+    <task id="LOCAL-00056" summary="hero update move">
+      <created>1417969560790</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1417969560791</updated>
+    </task>
+    <task id="LOCAL-00057" summary="hero move action on server">
+      <created>1417969683852</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1417969683852</updated>
+    </task>
+    <task id="LOCAL-00058" summary="hero move action  callback">
+      <created>1417969856741</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1417969856741</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fixed hero move action">
+      <created>1417971913557</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1417971913558</updated>
+    </task>
+    <task id="LOCAL-00060" summary="initial block">
+      <created>1417973309911</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1417973309912</updated>
+    </task>
+    <task id="LOCAL-00061" summary="dirrection-&gt;direction">
+      <created>1417973534684</created>
+      <option name="number" value="00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1417973534684</updated>
+    </task>
+    <task id="LOCAL-00062" summary="added chemicals">
+      <created>1417974612313</created>
+      <option name="number" value="00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1417974612313</updated>
+    </task>
+    <task id="LOCAL-00063" summary="added recycle block; changed colors">
+      <created>1417976541140</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1417976541140</updated>
+    </task>
+    <task id="LOCAL-00064" summary="added recycle block stubs">
+      <created>1417977472963</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1417977472963</updated>
+    </task>
+    <task id="LOCAL-00065" summary="added recycle block stubs">
+      <created>1417977742255</created>
+      <option name="number" value="00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1417977742255</updated>
+    </task>
+    <task id="LOCAL-00066" summary="added recycle block stubs">
+      <created>1417977987647</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1417977987648</updated>
+    </task>
+    <task id="LOCAL-00067" summary="logging">
+      <created>1417978087845</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1417978087845</updated>
+    </task>
+    <task id="LOCAL-00068" summary="fix hero moveTo">
+      <created>1417978416645</created>
+      <option name="number" value="00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1417978416645</updated>
+    </task>
+    <task id="LOCAL-00069" summary="fix hero moveTo">
+      <created>1417978769314</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1417978769314</updated>
+    </task>
+    <task id="LOCAL-00070" summary="fix hero moveTo">
+      <created>1417978985867</created>
+      <option name="number" value="00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1417978985867</updated>
+    </task>
+    <task id="LOCAL-00071" summary="fix hero moveTo crossing view port">
+      <created>1417979275292</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1417979275292</updated>
+    </task>
+    <task id="LOCAL-00072" summary="fix hero moveTo scale">
+      <created>1417979593797</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1417979593798</updated>
+    </task>
+    <task id="LOCAL-00073" summary="fix hero moveTo scale">
+      <created>1417979797452</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1417979797452</updated>
+    </task>
+    <task id="LOCAL-00074" summary="fix hero moveTo scale">
+      <created>1417981732394</created>
+      <option name="number" value="00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1417981732395</updated>
+    </task>
+    <task id="LOCAL-00075" summary="fixed move callback">
+      <created>1417981890575</created>
+      <option name="number" value="00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1417981890575</updated>
+    </task>
+    <task id="LOCAL-00076" summary="fixed other players moving with view port">
+      <created>1417983213177</created>
+      <option name="number" value="00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1417983213185</updated>
+    </task>
+    <task id="LOCAL-00077" summary="added images">
+      <created>1417983845898</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1417983845898</updated>
+    </task>
+    <task id="LOCAL-00078" summary="fixed hide overlaps">
+      <created>1417984511109</created>
+      <option name="number" value="00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1417984511110</updated>
+    </task>
+    <task id="LOCAL-00079" summary="log hide overlaps">
+      <created>1417984578849</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1417984578850</updated>
+    </task>
+    <task id="LOCAL-00080" summary="fixed moveTo">
+      <created>1417984618933</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1417984618933</updated>
+    </task>
+    <task id="LOCAL-00081" summary="fixed update view port when other players">
+      <created>1417984780734</created>
+      <option name="number" value="00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1417984780735</updated>
+    </task>
+    <task id="LOCAL-00082" summary="log hide overlaps">
+      <created>1417985088176</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1417985088176</updated>
+    </task>
+    <task id="LOCAL-00083" summary="log hide overlaps">
+      <created>1417985830337</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1417985830337</updated>
+    </task>
+    <task id="LOCAL-00084" summary="restricted put">
+      <created>1417987152163</created>
+      <option name="number" value="00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1417987152164</updated>
+    </task>
+    <task id="LOCAL-00085" summary="fixed typo">
+      <created>1417987347741</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1417987347741</updated>
+    </task>
+    <task id="LOCAL-00086" summary="rewrited things update">
+      <created>1417988198948</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1417988198948</updated>
+    </task>
+    <task id="LOCAL-00087" summary="fixed things update">
+      <created>1417988324970</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1417988324970</updated>
+    </task>
+    <task id="LOCAL-00088" summary="fixed things update">
+      <created>1417988566891</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1417988566891</updated>
+    </task>
+    <task id="LOCAL-00089" summary="removed things update log">
+      <created>1417988645165</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1417988645165</updated>
+    </task>
+    <task id="LOCAL-00090" summary="rewrited things update">
+      <created>1417989085921</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1417989085921</updated>
+    </task>
+    <task id="LOCAL-00091" summary="fixed hero transparent when puts water">
+      <created>1417991111585</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1417991111586</updated>
+    </task>
+    <task id="LOCAL-00092" summary="updated blocks">
+      <created>1417996276798</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1417996276798</updated>
+    </task>
+    <task id="LOCAL-00093" summary="updated blocks">
+      <created>1417996558706</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1417996558706</updated>
+    </task>
+    <task id="LOCAL-00094" summary="recycling">
+      <created>1417998570413</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1417998570414</updated>
+    </task>
+    <task id="LOCAL-00095" summary="recycling">
+      <created>1417999164601</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1417999164601</updated>
+    </task>
+    <task id="LOCAL-00096" summary="robot -&gt; coddee">
+      <created>1417999407888</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1417999407889</updated>
+    </task>
+    <task id="LOCAL-00097" summary="robot -&gt; coddee">
+      <created>1417999656657</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1417999656658</updated>
+    </task>
+    <task id="LOCAL-00098" summary="robot -&gt; coddee">
+      <created>1418000332915</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1418000332916</updated>
+    </task>
+    <task id="LOCAL-00099" summary="updated default workspace">
+      <created>1418000716280</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1418000716280</updated>
+    </task>
+    <task id="LOCAL-00100" summary="put to server">
+      <created>1418001334403</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1418001334403</updated>
+    </task>
+    <task id="LOCAL-00101" summary="take on server">
+      <created>1418001503409</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1418001503409</updated>
+    </task>
+    <task id="LOCAL-00102" summary="sounds">
+      <created>1418003262877</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1418003262877</updated>
+    </task>
+    <task id="LOCAL-00103" summary="levels">
+      <created>1418005142933</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1418005142934</updated>
+    </task>
+    <task id="LOCAL-00104" summary="levels">
+      <created>1418005443841</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1418005443842</updated>
+    </task>
+    <task id="LOCAL-00105" summary="removed debug info">
+      <created>1418006685810</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1418006685811</updated>
+    </task>
+    <task id="LOCAL-00106" summary="removed random map">
+      <created>1418007132693</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1418007132693</updated>
+    </task>
+    <task id="LOCAL-00107" summary="added count block">
+      <created>1418012190497</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1418012190497</updated>
+    </task>
+    <task id="LOCAL-00108" summary="remove scrollbars on code">
+      <created>1418012234375</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1418012234375</updated>
+    </task>
+    <task id="LOCAL-00109" summary="increased tooltip delay">
+      <created>1418012666506</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1418012666506</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="fixed other players moving with view port" />
+    <MESSAGE value="added images" />
+    <MESSAGE value="fixed hide overlaps" />
+    <MESSAGE value="fixed moveTo" />
+    <MESSAGE value="fixed update view port when other players" />
+    <MESSAGE value="log hide overlaps" />
+    <MESSAGE value="restricted put" />
+    <MESSAGE value="fixed typo" />
+    <MESSAGE value="fixed things update" />
+    <MESSAGE value="removed things update log" />
+    <MESSAGE value="rewrited things update" />
+    <MESSAGE value="fixed hero transparent when puts water" />
+    <MESSAGE value="updated blocks" />
+    <MESSAGE value="recycling" />
+    <MESSAGE value="robot -&gt; coddee" />
+    <MESSAGE value="updated default workspace" />
+    <MESSAGE value="put to server" />
+    <MESSAGE value="take on server" />
+    <MESSAGE value="sounds" />
+    <MESSAGE value="levels" />
+    <MESSAGE value="removed debug info" />
+    <MESSAGE value="removed random map" />
+    <MESSAGE value="added count block" />
+    <MESSAGE value="remove scrollbars on code" />
+    <MESSAGE value="increased tooltip delay" />
+    <option name="LAST_COMMIT_MESSAGE" value="increased tooltip delay" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/dirt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/grass.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/water.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/bush.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/road.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/tree.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/appengine/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/interpreter/acorn_interpreter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10710">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/sample.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/items/paper.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6443" max-vertical-offset="7990">
+          <caret line="404" column="1" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
+          <folding>
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1418005280000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/map/0-4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/map/0-0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/items/metal1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/walle_water.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/metal1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5049" max-vertical-offset="10404">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/procedures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2307693" vertical-offset="7172" max-vertical-offset="12546">
+          <caret line="420" column="16" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/Map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.769231" vertical-offset="5494" max-vertical-offset="6120">
+          <caret line="332" column="20" selection-start-line="332" selection-start-column="20" selection-end-line="332" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6429496" vertical-offset="5908" max-vertical-offset="6681">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/pubnub.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6528">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8625" vertical-offset="2248" max-vertical-offset="4318">
+          <caret line="141" column="66" selection-start-line="141" selection-start-column="66" selection-end-line="141" selection-end-column="66" />
+          <folding>
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1418003276000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-99.38461" vertical-offset="0" max-vertical-offset="2805">
+          <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.923077" vertical-offset="952" max-vertical-offset="2329">
+          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/core/field_label.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1547">
+          <caret line="101" column="27" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7115386" vertical-offset="981" max-vertical-offset="1921">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/core/workspace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4417" max-vertical-offset="7463">
+          <caret line="286" column="35" selection-start-line="286" selection-start-column="28" selection-end-line="286" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/demos/plane/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="746">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/demos/blockfactory/blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1468" max-vertical-offset="11696">
+          <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3978" max-vertical-offset="6613">
+          <caret line="257" column="29" selection-start-line="257" selection-start-column="16" selection-end-line="257" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/generators/javascript/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="3043">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33247423" vertical-offset="10197" max-vertical-offset="15946">
+          <caret line="615" column="9" selection-start-line="615" selection-start-column="9" selection-end-line="615" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blockly/blocks/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="4539">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="42" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7307692" vertical-offset="678" max-vertical-offset="1428">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-72.57692" vertical-offset="68" max-vertical-offset="4879">
+          <caret line="115" column="100" selection-start-line="115" selection-start-column="100" selection-end-line="115" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="13787">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/map-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="22646" max-vertical-offset="37179">
+          <caret line="1342" column="0" selection-start-line="1342" selection-start-column="0" selection-end-line="1342" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3215" max-vertical-offset="5559">
+          <caret line="201" column="31" selection-start-line="201" selection-start-column="31" selection-end-line="201" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

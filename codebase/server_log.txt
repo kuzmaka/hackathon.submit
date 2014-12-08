@@ -1,0 +1,630 @@
+07.12.2014 20:12:24 | --------------------
+
+
+07.12.2014 20:12:24 | Server starting...
+07.12.2014 20:12:24 | Started map generation...
+07.12.2014 20:12:24 | Area: 10,000 tiles
+07.12.2014 20:12:24 | Terrain generated. Now generating elements...
+07.12.2014 20:12:27 | Generated 2000 elements
+07.12.2014 20:12:27 | Map generated in 2.7629s.
+07.12.2014 20:12:27 | Players in database: 0
+07.12.2014 20:12:27 | Pubnub test timetoken: 14179759476707410
+07.12.2014 20:12:27 | [debug] 
+07.12.2014 20:12:27 | [debug] ============= Memory info ==============
+07.12.2014 20:12:27 | [debug] Memory limit:   -1
+07.12.2014 20:12:27 | [debug] Allocated:      5,966,184b
+07.12.2014 20:12:27 | [debug] Used:           18,087,936b
+07.12.2014 20:12:27 | [debug] Peak allocated: 18,339,704b
+07.12.2014 20:12:27 | [debug] Peak used:      18,350,080b
+07.12.2014 20:12:27 | [debug] ========================================
+07.12.2014 20:12:27 | [debug] 
+07.12.2014 20:12:27 | Subscribing to Pubnub...
+07.12.2014 20:12:31 | Created new player: thera
+07.12.2014 20:12:31 | Player with name thera connected
+07.12.2014 20:12:32 | Player with name thera performed action move
+07.12.2014 20:12:38 | Player with name thera performed action move
+07.12.2014 20:12:40 | Player with name thera performed action move
+07.12.2014 20:12:41 | Player with name thera performed action move
+07.12.2014 20:12:43 | Player with name thera performed action move
+07.12.2014 20:12:45 | Player with name thera performed action move
+07.12.2014 20:12:46 | Player with name thera performed action move
+07.12.2014 20:12:48 | Player with name thera performed action move
+07.12.2014 20:12:59 | Removed player
+07.12.2014 20:12:59 | [dump] Array
+07.12.2014 20:12:59 | [dump] (
+07.12.2014 20:12:59 | [dump] )
+07.12.2014 20:12:59 | [dump] 
+07.12.2014 20:12:59 | Player with name thera disconnected
+07.12.2014 20:13:06 | Player with name thera connected
+07.12.2014 20:13:16 | Player with name thera performed action move
+07.12.2014 20:13:19 | Player with name thera performed action move
+07.12.2014 20:14:55 | Player with name thera performed action move
+07.12.2014 20:26:26 | --------------------
+
+
+07.12.2014 20:26:26 | Server starting...
+07.12.2014 20:26:26 | Started map generation...
+07.12.2014 20:26:26 | Area: 10,000 tiles
+07.12.2014 20:26:27 | Terrain generated. Now generating elements...
+07.12.2014 20:26:29 | Generated 2000 elements
+07.12.2014 20:26:29 | Map generated in 2.5903s.
+07.12.2014 20:26:29 | Players in database: 1
+07.12.2014 20:26:29 | Pubnub test timetoken: 14179767897279949
+07.12.2014 20:26:29 | [debug] 
+07.12.2014 20:26:29 | [debug] ============= Memory info ==============
+07.12.2014 20:26:29 | [debug] Memory limit:   -1
+07.12.2014 20:26:29 | [debug] Allocated:      5,966,224b
+07.12.2014 20:26:29 | [debug] Used:           17,825,792b
+07.12.2014 20:26:29 | [debug] Peak allocated: 18,192,760b
+07.12.2014 20:26:29 | [debug] Peak used:      18,350,080b
+07.12.2014 20:26:29 | [debug] ========================================
+07.12.2014 20:26:29 | [debug] 
+07.12.2014 20:26:29 | Subscribing to Pubnub...
+07.12.2014 20:26:33 | Created new player: therainycat
+07.12.2014 20:26:33 | Player with name therainycat connected
+07.12.2014 20:26:45 | Player with name therainycat performed action move
+07.12.2014 20:26:53 | Player with name therainycat performed action move
+07.12.2014 20:27:05 | Removed player
+07.12.2014 20:27:05 | [dump] Array
+07.12.2014 20:27:05 | [dump] (
+07.12.2014 20:27:05 | [dump] )
+07.12.2014 20:27:05 | [dump] 
+07.12.2014 20:27:05 | Player with name therainycat disconnected
+07.12.2014 22:21:17 | --------------------
+
+
+07.12.2014 22:21:17 | Server starting...
+07.12.2014 22:21:17 | Started map generation...
+07.12.2014 22:21:17 | Area: 10,000 tiles
+07.12.2014 22:21:17 | Terrain generated. Now generating elements...
+07.12.2014 22:23:34 | --------------------
+
+
+07.12.2014 22:23:34 | Server starting...
+07.12.2014 22:23:34 | Started map generation...
+07.12.2014 22:23:34 | Area: 10,000 tiles
+07.12.2014 22:23:34 | Terrain generated. Now generating elements...
+07.12.2014 22:23:37 | Generated 2300 elements
+07.12.2014 22:23:37 | Map generated in 2.9635s.
+07.12.2014 22:23:37 | Players in database: 2
+07.12.2014 22:23:37 | Pubnub test timetoken: 14179838178585388
+07.12.2014 22:23:37 | [debug] 
+07.12.2014 22:23:37 | [debug] ============= Memory info ==============
+07.12.2014 22:23:37 | [debug] Memory limit:   -1
+07.12.2014 22:23:37 | [debug] Allocated:      5,952,320b
+07.12.2014 22:23:37 | [debug] Used:           18,087,936b
+07.12.2014 22:23:37 | [debug] Peak allocated: 18,247,336b
+07.12.2014 22:23:37 | [debug] Peak used:      18,350,080b
+07.12.2014 22:23:37 | [debug] ========================================
+07.12.2014 22:23:37 | [debug] 
+07.12.2014 22:23:37 | Subscribing to Pubnub...
+07.12.2014 22:24:14 | --------------------
+
+
+07.12.2014 22:24:14 | Server starting...
+07.12.2014 22:24:14 | Started map generation...
+07.12.2014 22:24:14 | Area: 10,000 tiles
+07.12.2014 22:24:15 | Terrain generated. Now generating elements...
+07.12.2014 22:24:17 | Generated 2300 elements
+07.12.2014 22:24:17 | Map generated in 3.1948s.
+07.12.2014 22:24:17 | Players in database: 2
+07.12.2014 22:24:18 | Pubnub test timetoken: 14179838582742630
+07.12.2014 22:24:18 | [debug] 
+07.12.2014 22:24:18 | [debug] ============= Memory info ==============
+07.12.2014 22:24:18 | [debug] Memory limit:   -1
+07.12.2014 22:24:18 | [debug] Allocated:      5,952,560b
+07.12.2014 22:24:18 | [debug] Used:           17,825,792b
+07.12.2014 22:24:18 | [debug] Peak allocated: 18,220,392b
+07.12.2014 22:24:18 | [debug] Peak used:      18,350,080b
+07.12.2014 22:24:18 | [debug] ========================================
+07.12.2014 22:24:18 | [debug] 
+07.12.2014 22:24:18 | Subscribing to Pubnub...
+07.12.2014 22:24:23 | Player with name therainycat disconnected
+07.12.2014 22:24:55 | --------------------
+
+
+07.12.2014 22:24:55 | Server starting...
+07.12.2014 22:24:55 | Started map generation...
+07.12.2014 22:24:55 | Area: 10,000 tiles
+07.12.2014 22:24:55 | Terrain generated. Now generating elements...
+07.12.2014 22:24:58 | Generated 2300 elements
+07.12.2014 22:24:58 | Map generated in 3.1582s.
+07.12.2014 22:24:58 | Players in database: 2
+07.12.2014 22:24:58 | Pubnub test timetoken: 14179838989360116
+07.12.2014 22:24:58 | [debug] 
+07.12.2014 22:24:58 | [debug] ============= Memory info ==============
+07.12.2014 22:24:58 | [debug] Memory limit:   -1
+07.12.2014 22:24:58 | [debug] Allocated:      5,952,512b
+07.12.2014 22:24:58 | [debug] Used:           17,825,792b
+07.12.2014 22:24:58 | [debug] Peak allocated: 18,157,144b
+07.12.2014 22:24:58 | [debug] Peak used:      18,350,080b
+07.12.2014 22:24:58 | [debug] ========================================
+07.12.2014 22:24:58 | [debug] 
+07.12.2014 22:24:58 | Subscribing to Pubnub...
+07.12.2014 22:52:27 | --------------------
+
+
+07.12.2014 22:52:27 | Server starting...
+07.12.2014 22:52:27 | Started map generation...
+07.12.2014 22:52:27 | Area: 10,000 tiles
+07.12.2014 22:52:27 | Terrain generated. Now generating elements...
+07.12.2014 22:52:30 | Generated 2300 elements
+07.12.2014 22:52:30 | Map generated in 3.2042s.
+07.12.2014 22:52:30 | Players in database: 2
+07.12.2014 22:52:30 | Pubnub test timetoken: 14179855511063375
+07.12.2014 22:52:30 | [debug] 
+07.12.2014 22:52:30 | [debug] ============= Memory info ==============
+07.12.2014 22:52:30 | [debug] Memory limit:   -1
+07.12.2014 22:52:30 | [debug] Allocated:      5,956,288b
+07.12.2014 22:52:30 | [debug] Used:           18,087,936b
+07.12.2014 22:52:30 | [debug] Peak allocated: 18,262,480b
+07.12.2014 22:52:30 | [debug] Peak used:      18,350,080b
+07.12.2014 22:52:30 | [debug] ========================================
+07.12.2014 22:52:30 | [debug] 
+07.12.2014 22:52:30 | Subscribing to Pubnub...
+07.12.2014 22:52:31 | Created new player: Eva
+07.12.2014 22:52:31 | Player with name Eva performed action move
+07.12.2014 22:52:32 | Player with name Eva performed action move
+07.12.2014 22:52:35 | Player with name Eva performed action move
+07.12.2014 22:54:24 | --------------------
+
+
+07.12.2014 22:54:24 | Server starting...
+07.12.2014 22:54:24 | Started map generation...
+07.12.2014 22:54:24 | Area: 10,000 tiles
+07.12.2014 22:54:24 | Terrain generated. Now generating elements...
+07.12.2014 22:54:27 | Generated 2300 elements
+07.12.2014 22:54:27 | Map generated in 3.1437s.
+07.12.2014 22:54:27 | Players in database: 3
+07.12.2014 22:54:27 | Pubnub test timetoken: 14179856681685122
+07.12.2014 22:54:27 | [debug] 
+07.12.2014 22:54:27 | [debug] ============= Memory info ==============
+07.12.2014 22:54:27 | [debug] Memory limit:   -1
+07.12.2014 22:54:27 | [debug] Allocated:      5,956,368b
+07.12.2014 22:54:27 | [debug] Used:           17,825,792b
+07.12.2014 22:54:27 | [debug] Peak allocated: 18,198,712b
+07.12.2014 22:54:27 | [debug] Peak used:      18,350,080b
+07.12.2014 22:54:27 | [debug] ========================================
+07.12.2014 22:54:27 | [debug] 
+07.12.2014 22:54:27 | Subscribing to Pubnub...
+07.12.2014 22:55:14 | --------------------
+
+
+07.12.2014 22:55:14 | Server starting...
+07.12.2014 22:55:14 | Started map generation...
+07.12.2014 22:55:14 | Area: 10,000 tiles
+07.12.2014 22:55:14 | Terrain generated. Now generating elements...
+07.12.2014 22:55:17 | Generated 2300 elements
+07.12.2014 22:55:17 | Map generated in 3.2731s.
+07.12.2014 22:55:17 | Players in database: 3
+07.12.2014 22:55:17 | Pubnub test timetoken: 14179857178135759
+07.12.2014 22:55:17 | [debug] 
+07.12.2014 22:55:17 | [debug] ============= Memory info ==============
+07.12.2014 22:55:17 | [debug] Memory limit:   -1
+07.12.2014 22:55:17 | [debug] Allocated:      5,956,456b
+07.12.2014 22:55:17 | [debug] Used:           18,087,936b
+07.12.2014 22:55:17 | [debug] Peak allocated: 18,296,504b
+07.12.2014 22:55:17 | [debug] Peak used:      18,350,080b
+07.12.2014 22:55:17 | [debug] ========================================
+07.12.2014 22:55:17 | [debug] 
+07.12.2014 22:55:17 | Subscribing to Pubnub...
+08.12.2014 00:15:52 | --------------------
+
+
+08.12.2014 00:15:52 | Server starting...
+08.12.2014 00:15:52 | Started map generation...
+08.12.2014 00:15:52 | Area: 10,000 tiles
+08.12.2014 00:15:53 | Terrain generated. Now generating elements...
+08.12.2014 00:15:55 | Generated 2300 elements
+08.12.2014 00:15:55 | Map generated in 3.174s.
+08.12.2014 00:15:55 | Players in database: 3
+08.12.2014 00:15:56 | Pubnub test timetoken: 14179905562710304
+08.12.2014 00:15:56 | [debug] 
+08.12.2014 00:15:56 | [debug] ============= Memory info ==============
+08.12.2014 00:15:56 | [debug] Memory limit:   -1
+08.12.2014 00:15:56 | [debug] Allocated:      5,956,680b
+08.12.2014 00:15:56 | [debug] Used:           18,087,936b
+08.12.2014 00:15:56 | [debug] Peak allocated: 18,272,400b
+08.12.2014 00:15:56 | [debug] Peak used:      18,350,080b
+08.12.2014 00:15:56 | [debug] ========================================
+08.12.2014 00:15:56 | [debug] 
+08.12.2014 00:15:56 | Subscribing to Pubnub on channel broadcast...
+08.12.2014 00:16:33 | --------------------
+
+
+08.12.2014 00:16:33 | Server starting...
+08.12.2014 00:16:33 | Started map generation...
+08.12.2014 00:16:33 | Area: 10,000 tiles
+08.12.2014 00:16:34 | Terrain generated. Now generating elements...
+08.12.2014 00:16:36 | Generated 2300 elements
+08.12.2014 00:16:36 | Map generated in 3.0286s.
+08.12.2014 00:16:36 | Players in database: 3
+08.12.2014 00:16:36 | Pubnub test timetoken: 14179905970617624
+08.12.2014 00:16:36 | [debug] 
+08.12.2014 00:16:36 | [debug] ============= Memory info ==============
+08.12.2014 00:16:36 | [debug] Memory limit:   -1
+08.12.2014 00:16:36 | [debug] Allocated:      5,956,920b
+08.12.2014 00:16:36 | [debug] Used:           17,825,792b
+08.12.2014 00:16:36 | [debug] Peak allocated: 18,168,888b
+08.12.2014 00:16:36 | [debug] Peak used:      18,350,080b
+08.12.2014 00:16:36 | [debug] ========================================
+08.12.2014 00:16:36 | [debug] 
+08.12.2014 00:16:36 | Subscribing to Pubnub on channel broadcast...
+08.12.2014 00:17:40 | --------------------
+
+
+08.12.2014 00:17:40 | Server starting...
+08.12.2014 00:17:40 | Started map generation...
+08.12.2014 00:17:40 | Area: 10,000 tiles
+08.12.2014 00:17:40 | Terrain generated. Now generating elements...
+08.12.2014 00:17:43 | Generated 2300 elements
+08.12.2014 00:17:43 | Map generated in 3.0146s.
+08.12.2014 00:17:43 | Players in database: 3
+08.12.2014 00:17:43 | Pubnub test timetoken: 14179906639889303
+08.12.2014 00:17:43 | [debug] 
+08.12.2014 00:17:43 | [debug] ============= Memory info ==============
+08.12.2014 00:17:43 | [debug] Memory limit:   -1
+08.12.2014 00:17:43 | [debug] Allocated:      5,956,888b
+08.12.2014 00:17:43 | [debug] Used:           17,825,792b
+08.12.2014 00:17:43 | [debug] Peak allocated: 18,181,920b
+08.12.2014 00:17:43 | [debug] Peak used:      18,350,080b
+08.12.2014 00:17:43 | [debug] ========================================
+08.12.2014 00:17:43 | [debug] 
+08.12.2014 00:17:43 | Subscribing to Pubnub on channel broadcast3...
+08.12.2014 00:18:08 | [dump] Array
+08.12.2014 00:18:08 | [dump] (
+08.12.2014 00:18:08 | [dump]     [message] => Array
+08.12.2014 00:18:08 | [dump]         (
+08.12.2014 00:18:08 | [dump]             [do] => connect
+08.12.2014 00:18:08 | [dump]             [name] => therainycat
+08.12.2014 00:18:08 | [dump]         )
+08.12.2014 00:18:08 | [dump] 
+08.12.2014 00:18:08 | [dump]     [channel] => broadcast3
+08.12.2014 00:18:08 | [dump]     [timeToken] => 14179906890495510
+08.12.2014 00:18:08 | [dump] )
+08.12.2014 00:18:08 | [dump] 
+08.12.2014 00:19:15 | --------------------
+
+
+08.12.2014 00:19:15 | Server starting...
+08.12.2014 00:19:15 | Started map generation...
+08.12.2014 00:19:15 | Area: 10,000 tiles
+08.12.2014 00:19:15 | Terrain generated. Now generating elements...
+08.12.2014 00:19:18 | Generated 2300 elements
+08.12.2014 00:19:18 | Map generated in 3.1081s.
+08.12.2014 00:19:18 | Players in database: 3
+08.12.2014 00:19:18 | Pubnub test timetoken: 14179907588596210
+08.12.2014 00:19:18 | [debug] 
+08.12.2014 00:19:18 | [debug] ============= Memory info ==============
+08.12.2014 00:19:18 | [debug] Memory limit:   -1
+08.12.2014 00:19:18 | [debug] Allocated:      5,956,992b
+08.12.2014 00:19:18 | [debug] Used:           18,087,936b
+08.12.2014 00:19:18 | [debug] Peak allocated: 18,241,792b
+08.12.2014 00:19:18 | [debug] Peak used:      18,350,080b
+08.12.2014 00:19:18 | [debug] ========================================
+08.12.2014 00:19:18 | [debug] 
+08.12.2014 00:19:18 | Subscribing to Pubnub on channel broadcast3...
+08.12.2014 00:19:19 | [dump] Array
+08.12.2014 00:19:19 | [dump] (
+08.12.2014 00:19:19 | [dump]     [message] => Array
+08.12.2014 00:19:19 | [dump]         (
+08.12.2014 00:19:19 | [dump]             [do] => connect
+08.12.2014 00:19:19 | [dump]             [name] => therainycat
+08.12.2014 00:19:19 | [dump]         )
+08.12.2014 00:19:19 | [dump] 
+08.12.2014 00:19:19 | [dump]     [channel] => broadcast3
+08.12.2014 00:19:19 | [dump]     [timeToken] => 14179907602198503
+08.12.2014 00:19:19 | [dump] )
+08.12.2014 00:19:19 | [dump] 
+08.12.2014 00:24:39 | --------------------
+
+
+08.12.2014 00:24:39 | Server starting...
+08.12.2014 00:24:39 | Started map generation...
+08.12.2014 00:24:39 | Area: 10,000 tiles
+08.12.2014 00:24:39 | Terrain generated. Now generating elements...
+08.12.2014 00:24:42 | Generated 2300 elements
+08.12.2014 00:24:42 | Map generated in 3.0738s.
+08.12.2014 00:24:42 | Players in database: 3
+08.12.2014 00:24:42 | Pubnub test timetoken: 14179910827833908
+08.12.2014 00:24:42 | [debug] 
+08.12.2014 00:24:42 | [debug] ============= Memory info ==============
+08.12.2014 00:24:42 | [debug] Memory limit:   -1
+08.12.2014 00:24:42 | [debug] Allocated:      5,957,064b
+08.12.2014 00:24:42 | [debug] Used:           18,087,936b
+08.12.2014 00:24:42 | [debug] Peak allocated: 18,238,336b
+08.12.2014 00:24:42 | [debug] Peak used:      18,350,080b
+08.12.2014 00:24:42 | [debug] ========================================
+08.12.2014 00:24:42 | [debug] 
+08.12.2014 00:24:42 | Subscribing to Pubnub on channel broadcast...
+08.12.2014 00:29:08 | --------------------
+
+
+08.12.2014 00:29:08 | Server starting...
+08.12.2014 00:29:08 | Started map generation...
+08.12.2014 00:29:08 | Area: 10,000 tiles
+08.12.2014 00:29:09 | Terrain generated. Now generating elements...
+08.12.2014 00:29:11 | Generated 2300 elements
+08.12.2014 00:29:11 | Map generated in 3.0807s.
+08.12.2014 00:29:11 | Players in database: 3
+08.12.2014 00:29:11 | Pubnub test timetoken: 14179913522594226
+08.12.2014 00:29:11 | [debug] 
+08.12.2014 00:29:11 | [debug] ============= Memory info ==============
+08.12.2014 00:29:11 | [debug] Memory limit:   -1
+08.12.2014 00:29:11 | [debug] Allocated:      5,958,488b
+08.12.2014 00:29:11 | [debug] Used:           17,825,792b
+08.12.2014 00:29:11 | [debug] Peak allocated: 18,177,584b
+08.12.2014 00:29:11 | [debug] Peak used:      18,350,080b
+08.12.2014 00:29:11 | [debug] ========================================
+08.12.2014 00:29:11 | [debug] 
+08.12.2014 00:29:12 | Channel history:
+08.12.2014 00:29:12 | [dump] Array
+08.12.2014 00:29:12 | [dump] (
+08.12.2014 00:29:12 | [dump]     [messages] => Array
+08.12.2014 00:29:12 | [dump]         (
+08.12.2014 00:29:12 | [dump]             [0] => Storage is not enabled for this subscribe key. Please contact help@pubnub.com
+08.12.2014 00:29:12 | [dump]         )
+08.12.2014 00:29:12 | [dump] 
+08.12.2014 00:29:12 | [dump]     [date_from] => 0
+08.12.2014 00:29:12 | [dump]     [date_to] => 0
+08.12.2014 00:29:12 | [dump] )
+08.12.2014 00:29:12 | [dump] 
+08.12.2014 00:29:12 | Subscribing to Pubnub on channel broadcast...
+08.12.2014 00:30:54 | --------------------
+
+
+08.12.2014 00:30:54 | Server starting...
+08.12.2014 00:30:54 | Started map generation...
+08.12.2014 00:30:54 | Area: 10,000 tiles
+08.12.2014 00:30:54 | Terrain generated. Now generating elements...
+08.12.2014 00:30:57 | Generated 2300 elements
+08.12.2014 00:30:57 | Map generated in 3.0938s.
+08.12.2014 00:30:57 | Players in database: 3
+08.12.2014 00:30:57 | Pubnub test timetoken: 14179914579042184
+08.12.2014 00:30:57 | [debug] 
+08.12.2014 00:30:57 | [debug] ============= Memory info ==============
+08.12.2014 00:30:57 | [debug] Memory limit:   -1
+08.12.2014 00:30:57 | [debug] Allocated:      5,957,872b
+08.12.2014 00:30:57 | [debug] Used:           17,563,648b
+08.12.2014 00:30:57 | [debug] Peak allocated: 18,191,792b
+08.12.2014 00:30:57 | [debug] Peak used:      18,350,080b
+08.12.2014 00:30:57 | [debug] ========================================
+08.12.2014 00:30:57 | [debug] 
+08.12.2014 00:30:57 | Subscribing to Pubnub on channel broadcast...
+08.12.2014 00:32:08 | --------------------
+
+
+08.12.2014 00:32:08 | Server starting...
+08.12.2014 00:32:08 | Started map generation...
+08.12.2014 00:32:08 | Area: 10,000 tiles
+08.12.2014 00:32:08 | Terrain generated. Now generating elements...
+08.12.2014 00:32:11 | Generated 2300 elements
+08.12.2014 00:32:11 | Map generated in 3.1324s.
+08.12.2014 00:32:11 | Players in database: 3
+08.12.2014 00:32:11 | Pubnub test timetoken: 14179915317344443
+08.12.2014 00:32:11 | [debug] 
+08.12.2014 00:32:11 | [debug] ============= Memory info ==============
+08.12.2014 00:32:11 | [debug] Memory limit:   -1
+08.12.2014 00:32:11 | [debug] Allocated:      5,957,688b
+08.12.2014 00:32:11 | [debug] Used:           17,825,792b
+08.12.2014 00:32:11 | [debug] Peak allocated: 18,165,456b
+08.12.2014 00:32:11 | [debug] Peak used:      18,350,080b
+08.12.2014 00:32:11 | [debug] ========================================
+08.12.2014 00:32:11 | [debug] 
+08.12.2014 00:32:11 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 00:35:54 | --------------------
+
+
+08.12.2014 00:35:54 | Server starting...
+08.12.2014 00:35:54 | Started map generation...
+08.12.2014 00:35:54 | Area: 10,000 tiles
+08.12.2014 00:35:54 | Terrain generated. Now generating elements...
+08.12.2014 00:35:57 | Generated 2300 elements
+08.12.2014 00:35:57 | Map generated in 3.1502s.
+08.12.2014 00:35:57 | Players in database: 3
+08.12.2014 00:35:57 | Pubnub test timetoken: 14179917581551189
+08.12.2014 00:35:57 | [debug] 
+08.12.2014 00:35:57 | [debug] ============= Memory info ==============
+08.12.2014 00:35:57 | [debug] Memory limit:   -1
+08.12.2014 00:35:57 | [debug] Allocated:      5,958,008b
+08.12.2014 00:35:57 | [debug] Used:           17,825,792b
+08.12.2014 00:35:57 | [debug] Peak allocated: 18,276,776b
+08.12.2014 00:35:57 | [debug] Peak used:      18,350,080b
+08.12.2014 00:35:57 | [debug] ========================================
+08.12.2014 00:35:57 | [debug] 
+08.12.2014 00:35:58 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 00:56:51 | --------------------
+
+
+08.12.2014 00:56:51 | Server starting...
+08.12.2014 00:56:51 | Started map generation...
+08.12.2014 00:56:51 | Area: 10,000 tiles
+08.12.2014 00:56:51 | Terrain generated. Now generating elements...
+08.12.2014 00:56:54 | Generated 2300 elements
+08.12.2014 00:56:54 | Map generated in 3.1885s.
+08.12.2014 00:56:54 | Players in database: 3
+08.12.2014 00:56:54 | Pubnub test timetoken: 14179930151616769
+08.12.2014 00:56:54 | [debug] 
+08.12.2014 00:56:54 | [debug] ============= Memory info ==============
+08.12.2014 00:56:54 | [debug] Memory limit:   -1
+08.12.2014 00:56:54 | [debug] Allocated:      5,957,888b
+08.12.2014 00:56:54 | [debug] Used:           18,350,080b
+08.12.2014 00:56:54 | [debug] Peak allocated: 18,208,768b
+08.12.2014 00:56:54 | [debug] Peak used:      18,350,080b
+08.12.2014 00:56:54 | [debug] ========================================
+08.12.2014 00:56:54 | [debug] 
+08.12.2014 00:56:55 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 00:57:13 | [dump] Array
+08.12.2014 00:57:13 | [dump] (
+08.12.2014 00:57:13 | [dump]     [message] => Array
+08.12.2014 00:57:13 | [dump]         (
+08.12.2014 00:57:13 | [dump]             [do] => connect
+08.12.2014 00:57:13 | [dump]             [name] => therainycat
+08.12.2014 00:57:13 | [dump]         )
+08.12.2014 00:57:13 | [dump] 
+08.12.2014 00:57:13 | [dump]     [channel] => abroadcast
+08.12.2014 00:57:13 | [dump]     [timeToken] => 14179930338088615
+08.12.2014 00:57:13 | [dump] )
+08.12.2014 00:57:13 | [dump] 
+08.12.2014 00:59:13 | --------------------
+
+
+08.12.2014 00:59:13 | Server starting...
+08.12.2014 00:59:13 | Started map generation...
+08.12.2014 00:59:13 | Area: 10,000 tiles
+08.12.2014 00:59:14 | Terrain generated. Now generating elements...
+08.12.2014 00:59:16 | Generated 2300 elements
+08.12.2014 00:59:16 | Map generated in 3.1075s.
+08.12.2014 00:59:16 | Players in database: 3
+08.12.2014 00:59:16 | Pubnub test timetoken: 14179931571943021
+08.12.2014 00:59:16 | [debug] 
+08.12.2014 00:59:16 | [debug] ============= Memory info ==============
+08.12.2014 00:59:16 | [debug] Memory limit:   -1
+08.12.2014 00:59:16 | [debug] Allocated:      5,958,696b
+08.12.2014 00:59:16 | [debug] Used:           17,825,792b
+08.12.2014 00:59:16 | [debug] Peak allocated: 18,185,152b
+08.12.2014 00:59:16 | [debug] Peak used:      18,350,080b
+08.12.2014 00:59:16 | [debug] ========================================
+08.12.2014 00:59:16 | [debug] 
+08.12.2014 00:59:17 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 00:59:21 | [dump] Array
+08.12.2014 00:59:21 | [dump] (
+08.12.2014 00:59:21 | [dump]     [message] => Array
+08.12.2014 00:59:21 | [dump]         (
+08.12.2014 00:59:21 | [dump]             [do] => connect
+08.12.2014 00:59:21 | [dump]             [name] => therainycat
+08.12.2014 00:59:21 | [dump]         )
+08.12.2014 00:59:21 | [dump] 
+08.12.2014 00:59:21 | [dump]     [channel] => abroadcast
+08.12.2014 00:59:21 | [dump]     [timeToken] => 14179931618715505
+08.12.2014 00:59:21 | [dump] )
+08.12.2014 00:59:21 | [dump] 
+08.12.2014 00:59:21 | Getting spawn point:
+08.12.2014 01:00:28 | --------------------
+
+
+08.12.2014 01:00:28 | Server starting...
+08.12.2014 01:00:28 | Started map generation...
+08.12.2014 01:00:28 | Area: 10,000 tiles
+08.12.2014 01:00:29 | Terrain generated. Now generating elements...
+08.12.2014 01:00:31 | Generated 2300 elements
+08.12.2014 01:00:31 | Map generated in 3.1865s.
+08.12.2014 01:00:31 | Players in database: 3
+08.12.2014 01:00:31 | Pubnub test timetoken: 14179932322209948
+08.12.2014 01:00:31 | [debug] 
+08.12.2014 01:00:31 | [debug] ============= Memory info ==============
+08.12.2014 01:00:31 | [debug] Memory limit:   -1
+08.12.2014 01:00:31 | [debug] Allocated:      5,958,120b
+08.12.2014 01:00:31 | [debug] Used:           17,825,792b
+08.12.2014 01:00:31 | [debug] Peak allocated: 18,181,568b
+08.12.2014 01:00:31 | [debug] Peak used:      18,350,080b
+08.12.2014 01:00:31 | [debug] ========================================
+08.12.2014 01:00:31 | [debug] 
+08.12.2014 01:00:32 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 01:00:35 | [dump] Array
+08.12.2014 01:00:35 | [dump] (
+08.12.2014 01:00:35 | [dump]     [message] => Array
+08.12.2014 01:00:35 | [dump]         (
+08.12.2014 01:00:35 | [dump]             [do] => connect
+08.12.2014 01:00:35 | [dump]             [name] => therainycat
+08.12.2014 01:00:35 | [dump]         )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]     [channel] => abroadcast
+08.12.2014 01:00:35 | [dump]     [timeToken] => 14179932355191071
+08.12.2014 01:00:35 | [dump] )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | Getting spawn point:
+08.12.2014 01:00:35 | Spawn point got...
+08.12.2014 01:00:35 | Player with name therainycat connected
+08.12.2014 01:00:35 | [dump] Array
+08.12.2014 01:00:35 | [dump] (
+08.12.2014 01:00:35 | [dump]     [message] => Array
+08.12.2014 01:00:35 | [dump]         (
+08.12.2014 01:00:35 | [dump]             [type] => chunkUpdate
+08.12.2014 01:00:35 | [dump]             [chunk] => Array
+08.12.2014 01:00:35 | [dump]                 (
+08.12.2014 01:00:35 | [dump]                     [0] => 9
+08.12.2014 01:00:35 | [dump]                     [1] => 8
+08.12.2014 01:00:35 | [dump]                 )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]         )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]     [channel] => abroadcast
+08.12.2014 01:00:35 | [dump]     [timeToken] => 14179932356952239
+08.12.2014 01:00:35 | [dump] )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump] Array
+08.12.2014 01:00:35 | [dump] (
+08.12.2014 01:00:35 | [dump]     [message] => Array
+08.12.2014 01:00:35 | [dump]         (
+08.12.2014 01:00:35 | [dump]             [for] => therainycat
+08.12.2014 01:00:35 | [dump]             [type] => onConnect
+08.12.2014 01:00:35 | [dump]             [status] => success
+08.12.2014 01:00:35 | [dump]             [pos] => Array
+08.12.2014 01:00:35 | [dump]                 (
+08.12.2014 01:00:35 | [dump]                     [0] => 90
+08.12.2014 01:00:35 | [dump]                     [1] => 85
+08.12.2014 01:00:35 | [dump]                 )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]             [inventory] => Array
+08.12.2014 01:00:35 | [dump]                 (
+08.12.2014 01:00:35 | [dump]                 )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]             [mapSize] => Array
+08.12.2014 01:00:35 | [dump]                 (
+08.12.2014 01:00:35 | [dump]                     [0] => 100
+08.12.2014 01:00:35 | [dump]                     [1] => 100
+08.12.2014 01:00:35 | [dump]                 )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]             [chunkSize] => 10
+08.12.2014 01:00:35 | [dump]         )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 01:00:35 | [dump]     [channel] => abroadcast
+08.12.2014 01:00:35 | [dump]     [timeToken] => 14179932356952239
+08.12.2014 01:00:35 | [dump] )
+08.12.2014 01:00:35 | [dump] 
+08.12.2014 03:03:14 | --------------------
+
+
+08.12.2014 03:03:14 | Server starting...
+08.12.2014 03:03:14 | Started map generation...
+08.12.2014 03:03:14 | Area: 10,000 tiles
+08.12.2014 03:03:14 | Terrain generated. Now generating elements...
+08.12.2014 03:03:17 | Generated 2300 elements
+08.12.2014 03:03:17 | Map generated in 3.0955s.
+08.12.2014 03:03:17 | Players in database: 3
+08.12.2014 03:03:17 | Pubnub test timetoken: 14180005981540583
+08.12.2014 03:03:17 | [debug] 
+08.12.2014 03:03:17 | [debug] ============= Memory info ==============
+08.12.2014 03:03:17 | [debug] Memory limit:   -1
+08.12.2014 03:03:17 | [debug] Allocated:      5,964,216b
+08.12.2014 03:03:17 | [debug] Used:           17,825,792b
+08.12.2014 03:03:17 | [debug] Peak allocated: 18,293,688b
+08.12.2014 03:03:17 | [debug] Peak used:      18,350,080b
+08.12.2014 03:03:17 | [debug] ========================================
+08.12.2014 03:03:17 | [debug] 
+08.12.2014 03:03:18 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 03:20:18 | --------------------
+
+
+08.12.2014 03:20:18 | Server starting...
+08.12.2014 03:20:18 | Started map generation...
+08.12.2014 03:20:18 | Area: 10,000 tiles
+08.12.2014 03:20:18 | Terrain generated. Now generating elements...
+08.12.2014 03:20:21 | Generated 2300 elements
+08.12.2014 03:20:21 | Map generated in 3.2209s.
+08.12.2014 03:20:21 | Players in database: 3
+08.12.2014 03:20:21 | Pubnub test timetoken: 14180016219776387
+08.12.2014 03:20:21 | [debug] 
+08.12.2014 03:20:21 | [debug] ============= Memory info ==============
+08.12.2014 03:20:21 | [debug] Memory limit:   -1
+08.12.2014 03:20:21 | [debug] Allocated:      5,967,800b
+08.12.2014 03:20:21 | [debug] Used:           17,825,792b
+08.12.2014 03:20:21 | [debug] Peak allocated: 18,242,808b
+08.12.2014 03:20:21 | [debug] Peak used:      18,350,080b
+08.12.2014 03:20:21 | [debug] ========================================
+08.12.2014 03:20:21 | [debug] 
+08.12.2014 03:20:22 | Subscribing to Pubnub on channel abroadcast...
+08.12.2014 03:20:28 | Getting spawn point:
+08.12.2014 03:20:28 | Spawn point got...
+08.12.2014 03:20:28 | Player with name therainycat connected

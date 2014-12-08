@@ -1,0 +1,598 @@
+html, body {
+	font-size:14px;
+	font-family:verdana, sans-serif;
+	padding:0;
+	margin:0;
+	height:100%;
+}
+body {
+	background:#222f34;
+}
+/* Loading */
+#loading {
+	display:none;
+	position:fixed;
+	top:50%;
+	left:50%;
+	width:48px;
+	height:48px;
+	margin-left:-24px;
+	margin-top:-24px;
+	background:rgba(0,0,0,0.75);
+	z-index:20000;
+	border-radius:25px;
+}
+#loading i.fa {
+	width:48px;
+	height:48px;
+	font-size:28px;
+	line-height:48px;
+	text-align:center;
+	color:#fff;
+}
+
+/* Main menu */
+#main-menu {
+	width:50px;
+	background:#000;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	z-index:10;
+}
+#main-menu a {
+	display:block;
+	height:50px;
+	line-height:50px;
+	color:#fff;
+	position:relative;
+}
+#main-menu a:hover {
+	color:#4af;
+}
+#main-menu a i.fa {
+	width:50px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	font-size:28px;
+}
+#main-menu a span {
+	display:none;
+	position:absolute;
+	bottom:0;
+	left:40px;
+	background:#000;
+	padding:0 20px 0 15px;
+	box-shadow:5px 5px 0 rgba(0,0,0,0.3);
+	color:#4af;
+	white-space:nowrap;
+}
+#main-menu a:hover span {
+	display:block;
+}
+/* Command box */
+#command-box {
+	width:450px;
+	height:100%;
+	background:#eee;
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	left:50px;
+	bottom:0;
+}
+#command-box-title {
+	color:#999;
+	text-shadow:0 1px 0 #fff;
+	height:50px;
+	line-height:50px;
+	padding-right:5px;
+}
+#command-box-title i.fa-code {
+	font-size:28px;
+	padding-left:15px;
+	padding-right:10px;
+	float:left;
+	height:50px;
+	line-height:50px;
+}
+#command-box-title button {
+	float:right;
+	border:0px;
+	height:30px;
+	padding:0 10px;
+	margin:10px 10px 0 0;
+	background:#090;
+	color:#fff;
+	border-radius:4px;
+}
+#command-box-title button:hover {
+	box-shadow:inset 0 30px 0 rgba(0,0,0,0.2);
+	cursor:pointer;
+}
+#command-box-title button i.fa {
+	font-size:14px;
+	line-height:30px;
+	height:30px;
+	padding:0;
+}
+#command-box-title button i.icon-to-the-right {
+	padding-left:10px;
+}
+#command-box-title button i.icon-to-the-left {
+	padding-right:10px;
+}
+#command-box-content {
+	margin-left:-1px;
+}
+/* Inventory */
+#inventory {
+	position:absolute;
+	height:51px;
+	background:rgba(0,0,0,0.5);
+	z-index:900;
+	overflow:hidden;
+	top:0;
+	left:500px;
+	right:0;
+}
+#inventory-content {
+	position:absolute;
+	top:0;
+	right:0;
+}
+/* Inventory items */
+.inventory-item-separator {
+	display:inline-block;
+	width:50px;
+	height:50px;
+}
+.inventory-item {
+	width:50px;
+	height:50px;
+	display:inline-block;
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	background-size:100%;
+	position:relative;
+}
+.inventory-item-count {
+	position:absolute;
+	bottom:5px;
+	right:5px;
+	color:#fff;
+	font-weight:bold;
+	font-size:11px;
+	text-shadow:0 1px 3px #000, 0 0 3px #000;
+}
+.inv-item-type-paper {
+	background-image:url(../img/items/paper.png);
+}
+.inv-item-type-paper1 {
+	background-image:url(../img/items/paper1.png);
+}
+.inv-item-type-plastic {
+	background-image:url(../img/items/plastic.png);
+}
+.inv-item-type-bottle {
+	background-image:url(../img/items/bottle.png);
+}
+.inv-item-type-metal {
+	background-image:url(../img/items/metal.png);
+}
+.inv-item-type-metal1 {
+	background-image:url(../img/items/metal1.png);
+}
+.inv-item-type-chemicals {
+	background-image:url(../img/items/chemicals.png);
+}
+.inv-item-type-grass {
+	background-image:url(../img/items/grass.png);
+}
+.inv-item-type-dirt {
+	background-image:url(../img/items/dirt.png);
+}
+.inv-item-type-stone {
+	background-image:url(../img/items/stone.png);
+}
+.inv-item-type-water {
+	background-image:url(../img/items/water.png);
+}
+.inv-item-type-oscar {
+	background-image:url(../img/items/coin.png);
+}
+/* Console */
+#console {
+	width:449px;
+	height:100%;
+	background:#333;
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	left:-400px;
+	zleft:50px;
+	bottom:0;
+}
+#console-title {
+	color:#fff;
+	height:50px;
+	line-height:50px;
+	padding-right:5px;
+}
+#console-title i.fa-terminal {
+	font-size:28px;
+	padding-left:15px;
+	padding-right:10px;
+	float:left;
+	height:50px;
+	line-height:50px;
+}
+#console-title button {
+	float:right;
+	border:0px;
+	height:30px;
+	padding:0 10px;
+	margin:10px 10px 0 0;
+	background:#090;
+	color:#fff;
+	border-radius:4px;
+}
+#console-title button:hover {
+	box-shadow:inset 0 30px 0 rgba(0,0,0,0.2);
+	cursor:pointer;
+}
+#console-title button i.fa {
+	font-size:14px;
+	line-height:30px;
+	height:30px;
+	padding:0;
+}
+#console-title button i.icon-to-the-right {
+	padding-left:10px;
+}
+#console-title button i.icon-to-the-left {
+	padding-right:10px;
+}
+#console-content {
+	background:#fff;
+	position:absolute;
+	top:50px;
+	bottom:60px;
+	left:15px;
+	right:15px;
+	border-radius:4px;
+	padding:5px;
+	overflow:auto;
+}
+.console-element {
+	padding:10px 15px;
+	border-bottom:1px solid #ddd;
+	color:#777;
+}
+.console-element.element-type-success {
+	color:#0a0;
+}
+.console-element.element-type-error {
+	color:#a00;
+}
+.console-element.element-type-warning {
+	color:#880;
+}
+#console-debug {
+	position:absolute;
+	height:30px;
+	bottom:10px;
+	left:15px;
+	right:15px;
+	padding:5px;
+	overflow:auto;
+	color:#fff;
+}
+#console-debug label {
+	height:30px;
+	line-height:30px;
+	clear:both;
+}
+.debug-input-position {
+	display:inline-block;
+	width:60px;
+	height:30px;
+	padding:0 5px;
+	background:#fff;
+	border:0px;
+	border-radius:4px;
+}
+
+/* Bootstrap */
+#popup-underlay {
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background:rgba(0,0,0,0.5);
+	z-index:1000;
+}
+#popup-underlay:hover {
+	background:rgba(0,0,0,0.4);
+	cursor:pointer;
+}
+#popup {
+	position:absolute;
+	width:400px;
+	top:50px;
+	left:50%;
+	margin-left:-200px;
+	background:#fff;
+	z-index:1001;
+}
+.popup-header {
+	height:50px;
+	line-height:50px;
+	color:#fff;
+	padding:0 15px;
+}
+.popup-style-error .popup-header {
+	background:#600;	
+}
+.popup-style-success .popup-header {
+	background:#060;	
+}
+.popup-style-message .popup-header {
+	background:#333;	
+}
+.popup-header i.fa {
+	font-size:14px;
+	padding-right:10px;
+}
+.popup-content {
+	padding:15px;
+}
+.popup-buttons {
+	background:#eee;
+	text-align:right;
+	padding:15px;
+}
+/* Tooltips */
+.tooltip-overlay {
+	display:none;
+	position:absolute;
+	z-index:100;
+	background:rgba(10,10,10,0.75);
+}
+.tooltip-touch-overlay {
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	background:transparent;
+	z-index:101;
+}
+.tooltip-popup {
+	box-sizing:border-box;
+	background:#fff;
+	border-radius:4px;
+	box-shadow:0 1px 5px rgba(0,0,0,0.5);
+	position:absolute;
+	color:#000;
+	z-index:105;
+	padding:10px 15px;
+}
+.tooltip-popup.tooltip-arrow-left::after {
+	content: "";
+	border-top:10px solid transparent;
+	border-bottom:10px solid transparent;
+	border-right:10px solid #fff;
+	position:absolute;
+	left:-10px;
+	top:50%;
+	margin-top:-10px;
+}
+.tooltip-popup.tooltip-arrow-right::after {
+	content: "";
+	border-top:10px solid transparent;
+	border-bottom:10px solid transparent;
+	border-left:10px solid #fff;
+	position:absolute;
+	right:-10px;
+	top:50%;
+	margin-top:-10px;
+}
+.tooltip-popup.tooltip-arrow-top::after {
+	content: "";
+	border-left:10px solid transparent;
+	border-right:10px solid transparent;
+	border-bottom:10px solid #fff;
+	position:absolute;
+	top:-10px;
+	left:50%;
+	margin-left:-10px;
+}
+.tooltip-title {
+	font-size:18px;
+	color:#888;
+}
+.tooltip-content {
+	margin-top:5px;
+}
+.tooltip-cancel-button {
+	position:absolute;
+	bottom:15px;
+	right:15px;
+	height:40px;
+	line-height:40px;
+	padding:0 20px;
+	background:#269;
+	border:0;
+	z-index:110;
+	color:#fff;
+	border-radius:4px;
+	cursor:pointer;
+}
+.tooltip-cancel-button:hover {
+	background:#158;
+}
+.tooltip-cancel-button i.fa {
+	padding-right:10px;
+}
+/* Login window */
+#login-window {
+	display:none;
+	width:400px;
+	position:absolute;
+	z-index:1015;
+	top:50px;
+	left:50%;
+	margin-left:-200px;
+	background:#fff;
+	min-height:100px;
+	box-shadow:0 1px 5px rgba(0,0,0,0.5);
+}
+.login-window-title {
+	height:50px;
+	line-height:50px;
+	background:#0a3;
+	color:#fff;
+	padding:0 15px;
+}
+.login-window-title i.fa {
+	padding-right:10px;
+}
+.login-window-content {
+	padding:15px;
+}
+.login-window-content label {
+	color:#888;
+	display:block;
+	margin-bottom:10px;
+}
+#player-name-input {
+	display:inline-block;
+	box-sizing:border-box;
+	height:30px;
+	width:250px;
+}
+.login-window-content button {
+	display:inline-block;
+	box-sizing:border-box;
+	height:30px;
+	width:120px;
+	text-align:center;
+}
+.login-window-content button i.fa {
+	padding-right:10px;
+}
+
+#splash {
+	display:none;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	height:100%;
+	background:#222;
+	z-index:300101;
+}
+#splash-wallee {
+	position:absolute;
+	top:50px;
+	left:50%;
+	margin-left:-126px;
+	background:url(../img/walle-splash.png);
+	width:253px;
+	height:300px;
+	z-index:2;
+}
+#splash-content {
+	top:238px;
+	left:50%;
+	width:400px;
+	position:absolute;
+	margin-left:-200px;
+	z-index:1;
+}
+
+#splash-content-header {
+	color:#fff;
+	font-size:16px;
+	height:50px;
+	line-height:50px;
+	padding:20px 15px 0 15px;
+	text-shadow:0 1px 3px rgba(0,0,0,0.3);
+	background:url(../img/textures/grass.png);
+}
+#splash-content-body {
+	background:url(../img/textures/dirt.png);
+	padding:15px 15px 60px 15px;
+	color:#fff;
+	box-shadow:inset 0 4px 0 rgba(0,0,0,0.2);
+	position:relative;
+}
+#splash-content-body button {
+	display:block;
+	height:40px;
+	line-height:40px;
+	border-radius:4px;
+	border:0;
+	background: transparent;
+	position:absolute;
+	bottom:15px;
+	right:15px;
+	color:rgba(255,255,255,0.7);
+	font-size:18px;
+	text-shadow:0 1px 2px rgba(0,0,0,0.6);
+}
+#splash-content-body button:hover {
+	cursor:pointer;
+	color:#fff;
+}
+#splash-content-body button i.fa {
+	padding-left:10px;
+	font-size:20px;
+}
+#notice {
+	display:none;
+	position:absolute;
+	right:15px;	
+	bottom:15px;
+	padding:15px;
+	max-width:420px;
+	min-width:200px;
+	border-radius:4px;
+	box-sizing:border-box;
+	background:rgba(0,0,0,0.9);
+	z-index:50000;
+	color:#fff;
+	cursor:pointer;
+}
+#notice.type-error {
+	background:rgba(200,0,0,0.9);
+}
+#notice.type-warning {
+	background:rgba(200,100,0,0.9);
+}
+#notice.type-success {
+	background:rgba(0,200,0,0.9);
+}
+#player-level {
+	height:50px;
+	line-height:50px;
+	padding:0 15px;
+	color:#fff;
+	position:absolute;
+	top:0;
+	left:0;
+}
+#player-level span {
+	font-size:18px;
+}
+#game-canvas {
+	background:#def;
+	position:absolute;
+	top:0;
+	left:500px;
+	bottom:0;
+}

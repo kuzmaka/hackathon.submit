@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>Coddee</title>
+
+    <link rel='stylesheet' type='text/css' href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+    <link rel='stylesheet' type='text/css' href='css/main.css'>
+
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://code.createjs.com/createjs-2013.12.12.min.js"></script>
+
+    <script src="js/blockly-custom/blockly_compressed.js"></script>
+    <script src="js/blockly-custom/javascript_compressed.js"></script>
+    <script src="js/blockly-custom/blocks_compressed.js"></script>
+    <script src="js/blockly-custom/msg/js/en.js"></script>
+    <script src="js/interpreter/acorn_interpreter.js"></script>
+
+    <script src="js/bootstrap.js"></script>
+
+	<script src="js/pubnub.js"></script>
+    <script src="js/server.js"></script>
+
+    <script src="js/game.js"></script>
+    <script src="js/blocks.js"></script>
+    <script src="js/inventory.js"></script>
+    <script src="js/items.js"></script>
+
+    <script src="js/map-generator.js"></script>
+
+	<script>
+		$(document).ready(function(){
+			//Bootstrap.notice("My message", "error"); // success/error/warning/ (or nothing)
+			//Bootstrap.updatePlayerLevel(17);
+		});
+	</script>
+</head>
+<body>
+	<!-- Loading animation -->
+	<div id="loading"><i class="fa fa-spinner fa-spin"></i></div>
+
+	<!-- Main menu (vertical black coll on the left of the page) -->
+	<div id="main-menu">
+		<a href="javascript:" onClick="Bootstrap.showTooltip(0);">
+			<i class="fa fa-question-circle"></i>
+			<span>Help!</span>
+		</a>
+		<a href="javascript:" onClick="Bootstrap.showLoginForm();">
+			<i class="fa fa-users"></i>
+			<span>Multiplayer</span>
+		</a>
+	</div>
+
+	<!-- Command-box (blockly and start/stop button) -->
+	<div id="command-box">
+		<div id="command-box-title">
+			<i class="fa fa-code"></i>
+			<span>Your program</span>
+			<button id="process-button"></button>
+		</div>
+		<div id="command-box-content">
+
+		</div>
+	</div>
+
+	<div id="inventory">
+		<div id="player-level">CODDEE level: <span>1</span></div>
+		<div id="inventory-content">
+			
+		</div>
+	</div>
+
+	<!-- Game map - main area -->
+	<canvas id="game-canvas">
+		canvas not supported
+	</canvas>
+
+	<!-- Login form popup - for multiplayer purposes -->
+	<div id="login-window">
+		<div class="login-window-title">
+			<i class="fa fa-users"></i>Multiplayer
+		</div>
+		<div class="login-window-content">
+			<label for="player-name-input">Please enter your robot's name:</label>
+			<input type="text" id="player-name-input"><button onClick="Bootstrap.loginAttempt()"><i class="fa fa-key"></i>Login</button>
+		</div>
+	</div>
+
+	<!-- Splash screen - just for one time -->
+	<div id="splash">
+		<div id="splash-wallee"></div>
+		<div id="splash-content">
+			<div id="splash-content-header">
+				Welcome to Coddee!
+			</div>
+			<div id="splash-content-body">
+				Control your robot, clean the planet and learn while playing.
+				<button onClick="$('#splash').slideUp();">Let me see it<i class="fa fa-arrow-right"></i>
+</button>
+			</div>
+		</div>
+	</div>
+
+	<div id="notice">Notice</div>
+</body>
+</html>
