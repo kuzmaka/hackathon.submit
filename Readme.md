@@ -12,11 +12,18 @@ A brief introduction to your project. It should include the motivation behind th
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
-
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-terminal.png "Koding")
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-ide.png "Koding")
+![CODDEE main screen](/images/screen1.png?raw=true "CODDEE main screen")
 
 ## APIs used
 
-Provide a list of APIs you used in this project.
+[PubNub](http://www.pubnub.com/) API for multiplayer mode.
+
+## Public libraries used
+
+[CreateJS](http://www.createjs.com/#!/CreateJS) library for drawings & animations on HMTL5 canvas, also sounds and media preloading.
+Customized [Blockly](https://developers.google.com/blockly/) library for visual programming.
+
+## Media used
+
+WALL-E image of Pixar's and Disney's animated movie character.
+[PlanetCute](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html) free graphics set.
