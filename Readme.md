@@ -8,7 +8,6 @@ We developed CODDEE game and its goal is to introduce programming to a begginer 
 
 ## Screenshots
 
-![CODDEE](/images/walle-splash-white.png?raw=true "CODDEE")
 ![CODDEE main screen](/images/screen1.png?raw=true "CODDEE main screen")
 
 ## APIs used
